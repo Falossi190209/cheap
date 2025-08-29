@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O desperdício de alimentos é um problema crítico, com impactos econômicos, sociais e ambientais significativos. No Brasil, cerca de **42 % de toda a produção de alimentos é perdida ou desperdiçada**, o equivalente a **aproximadamente 26 milhões de toneladas** por ano, incluindo perdas em produção, transporte e consumo doméstico :contentReference[oaicite:0]{index=0}. Estima-se ainda que famílias brasileiras desperdiçam cerca de **60 kg por pessoa por ano** :contentReference[oaicite:1]{index=1}.
+O desperdício de alimentos é um problema crítico, com impactos econômicos, sociais e ambientais significativos. No Brasil, cerca de **42 % de toda a produção de alimentos é perdida ou desperdiçada**, o equivalente a **aproximadamente 26 milhões de toneladas** por ano, incluindo perdas em produção, transporte e consumo doméstico. Estima-se ainda que famílias brasileiras desperdiçam cerca de **60 kg por pessoa por ano**.
 
 Este aplicativo surge como uma solução tecnológica e inovadora que conecta supermercados, produtores locais e consumidores, criando um ecossistema sustentável que reduz perdas, gera economia e promove o consumo consciente. A proposta vai além da simples venda de produtos próximos ao vencimento: o app transforma a experiência de compra em algo educativo, sustentável e divertido, integrando **gamificação**, **inteligência artificial** e **impacto social mensurável**.
 
@@ -88,10 +88,10 @@ Desenvolver uma plataforma (aplicativo móvel e web) que reduza significativamen
 
 ## Referências Relevantes
 
-- No Brasil, cerca de **42 % da produção de alimentos se perde ou é desperdiçada** :contentReference[oaicite:2]{index=2}.
-- Estima-se que cada pessoa descarta em média **60 kg de alimento por ano** :contentReference[oaicite:3]{index=3}.
-- Iniciativas como o **Sesc Mesa Brasil** redistribuem alimentos desperdiçados, atendendo mensalmente cerca de 2,1 milhões de pessoas :contentReference[oaicite:4]{index=4}.
-- O Brasil desperdiça entre **20 e 55 milhões de toneladas de alimento por ano**, quase **30 % da produção estimada** :contentReference[oaicite:5]{index=5}.
+- No Brasil, cerca de **42 % da produção de alimentos se perde ou é desperdiçada**.
+- Estima-se que cada pessoa descarta em média **60 kg de alimento por ano**.
+- Iniciativas como o **Sesc Mesa Brasil** redistribuem alimentos desperdiçados, atendendo mensalmente cerca de 2,1 milhões de pessoas.
+- O Brasil desperdiça entre **20 e 55 milhões de toneladas de alimento por ano**, quase **30 % da produção estimada**.
 
 
 
